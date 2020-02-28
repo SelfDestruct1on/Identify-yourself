@@ -1,6 +1,6 @@
 print("Введите число 1: ")
 nums = input()
 if nums == "1" :
-    print("Ты лох")
+    print("Чел ты...")
 else:
-    print("Ты не лох")
+    print("Малаца")
